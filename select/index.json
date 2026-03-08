@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Asing",
+  "base_artist": "Juicy Luicy",
+  "createdAt": "2026-03-08T17:57:14.309870Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Aku Yang Asing",
+      "artist": "Hujan",
+      "has_synced": true,
+      "path": "select/01_Aku_Yang_Asing_Hujan.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Asing",
+      "artist": "Yuna",
+      "has_synced": true,
+      "path": "select/02_Asing_Yuna.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Asing",
+      "artist": "Yuna",
+      "has_synced": true,
+      "path": "select/03_Asing_Yuna.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Orang Asing Dalam Cermin",
+      "artist": "Kunto Aji",
+      "has_synced": true,
+      "path": "select/04_Orang_Asing_Dalam_Cermin_Kunto_Aji.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Asing",
+      "artist": "Juicy Luicy",
+      "has_synced": true,
+      "path": "select/05_Asing_Juicy_Luicy.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Orang Asing Dalam Cermin",
+      "artist": "Kunto Aji",
+      "has_synced": true,
+      "path": "select/06_Orang_Asing_Dalam_Cermin_Kunto_Aji.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Asing",
+      "artist": "Juicy Luicy",
+      "has_synced": true,
+      "path": "select/07_Asing_Juicy_Luicy.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "ASING",
+      "artist": "Firwan Johan",
+      "has_synced": true,
+      "path": "select/08_ASING_Firwan_Johan.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Orang Asing",
+      "artist": "Willy Anggawinata",
+      "has_synced": false,
+      "path": "select/09_Orang_Asing_Willy_Anggawinata.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Asing",
+      "artist": "Wings",
+      "has_synced": true,
+      "path": "select/10_Asing_Wings.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Asing Dalam Satu Malam",
+      "artist": "Rara Siti Rachmawati",
+      "has_synced": true,
+      "path": "select/11_Asing_Dalam_Satu_Malam_Rara_Siti_Rachmawati.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Asing",
+      "artist": "Toxic Vision",
+      "has_synced": false,
+      "path": "select/12_Asing_Toxic_Vision.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Asing Sing So",
+      "artist": "Trio Ambisi",
+      "has_synced": false,
+      "path": "select/13_Asing_Sing_So_Trio_Ambisi.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Yuna - Asing (Official Audio)",
+      "artist": "Yuna",
+      "has_synced": true,
+      "path": "select/14_Yuna_-_Asing_(Official_Audio)_Yuna.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Asing Abadi",
+      "artist": "Ziell Ferdian",
+      "has_synced": false,
+      "path": "select/15_Asing_Abadi_Ziell_Ferdian.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Asing",
+      "artist": "Satrio Rachmadi",
+      "has_synced": false,
+      "path": "select/16_Asing_Satrio_Rachmadi.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Asing",
+      "artist": "Lavora",
+      "has_synced": false,
+      "path": "select/17_Asing_Lavora.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Asing",
+      "artist": "Juicy Luicy",
+      "has_synced": false,
+      "path": "select/pl_01_Asing_Juicy_Luicy.txt"
+    }
+  ]
+}
